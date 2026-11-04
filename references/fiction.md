@@ -53,9 +53,14 @@ Each check is keyed to a shape you can see. A match is a candidate, not a verdic
 ### Canon claims in fiction set in an existing world
 
 - **Trigger:** a sentence that states how the source world works (a creature's habits, a rule of its powers, an institution's procedure) rather than what happens in this story.
-- **Check:** does the source say so? Invented events are the point of fan fiction. Invented facts about the canon are errors that readers of that canon will catch.
+- **Check:** does the source say so? Invented events are the point of fan fiction. Invented facts about the canon are errors that readers of that canon will catch. A detail taken from another adaptation (a game, a film) counts as outside the source unless the story is set in that adaptation.
 - **Fix:** check it against the source. If the source doesn't say it, cut it, recast it as a character's belief ("The sergeant guessed it would surface where it went down"), or keep it and list it as invented. When you write fan fiction yourself, end with a short note on which parts are invented.
 - **Example:** in an SCP story, "106 drops its prey where it likes, but it has a habit of coming back to where it started" was stated as canon. Neither the SCP-106 file nor the experiment log says so.
+- **Retold documents:** when the story retells a document from the canon (a log entry, a note, an interview), compare its quantities, hedges, and attributions with the original. In the same story, the log's "could have resulted in hundreds of causalities" (its typo for casualties) became "the dead would have been counted in the hundreds": a hedge turned into a fact, and casualties into deaths.
 - **Why:** the draft-mode rule (facts only from the source) never fires in fiction, because everything in a story is made up. This trigger separates the made-up events from claims about the world they happen in.
+
+## Severity in detect mode
+
+A canon claim the source contradicts, or a rule of the world it doesn't contain, is P1: readers of that canon will catch it, and it changes what the story says about its world. A detail from another adaptation, a retold document that shifts a hedge or a number, and the four craft tells above are P2. Rules this file relaxes keep the catalog's tiers where they still apply. Why: without tiers here, an agent has to rank fiction findings its own way.
 
 *Scope fence:* these checks find what a story's wording gets wrong. Whether the plot works, a character convinces, or the pacing holds is the author's call; flag those only when the user asks for a critique.
